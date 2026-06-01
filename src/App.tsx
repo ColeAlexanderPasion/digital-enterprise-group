@@ -1106,7 +1106,7 @@ function About() {
       <div className="about-grid">
         <motion.div {...fadeUp()}>
           <span className="eyebrow">About us</span>
-          <h2>For over 15 years, Digital Enterprise Group specializes in helping businesses grow through smarter systems.</h2>
+          <h2>For over 16+ years, Digital Enterprise Group specializes in helping businesses grow through smarter systems.</h2>
           <p>
             Digital Enterprise Group helps businesses organize operations, build CRM systems, connect tools, automate repetitive work, and improve digital marketing performance. We focus on practical systems that are easy to understand, useful for daily work, and built to support long-term digital growth.
           </p>
